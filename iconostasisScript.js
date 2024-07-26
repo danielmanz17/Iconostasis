@@ -132,6 +132,7 @@ function mouseClicked(){
 }
 
 function togglePlaying(){
+  // Stop multiple playback of sound
   if(soundFlag == 0){
     interface.play();
     playing = false;
