@@ -135,6 +135,7 @@ function togglePlaying(){
   if(soundFlag == 0){
     interface.play();
     playing = false;
+    soundFlag = 1;
   }
 }
 
