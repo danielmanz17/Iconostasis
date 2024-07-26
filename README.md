@@ -19,4 +19,4 @@ The sound is taken from a jam with a sequencer I built in Pure Data. A combinati
 ##References
 \
 \
-[1][1] Wolfram MathWorld. Available at: https://mathworld.wolfram.com/RoseCurve.html (Accessed 07/12/2023).
+[1] Wolfram MathWorld. Available at: https://mathworld.wolfram.com/RoseCurve.html (Accessed 07/12/2023).
