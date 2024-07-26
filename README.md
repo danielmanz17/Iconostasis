@@ -16,8 +16,8 @@ The variable “n” controls the number of “petals” of the resultant curve,
 \
 The sound is taken from a jam with a sequencer I built in Pure Data. A combination of clicks and bursts of white noise are used to create generative rhythms. 
 
-## Video
-[Iconostasis](https://www.youtube.com/watch?v=YOZZJMeOjX4)
+## Result
+[Iconostasis](https://danielmanz17.github.io/Iconostasis/)
 
 ## References
 [1] Wolfram MathWorld. Available at: https://mathworld.wolfram.com/RoseCurve.html (Accessed 07/12/2023).
