@@ -1,6 +1,5 @@
 # Iconostasis
-\
-\
+
 ![alt text](images/githubICon.png)
 \
 \
