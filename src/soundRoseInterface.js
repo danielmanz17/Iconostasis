@@ -37,7 +37,7 @@ let chance = 10;
 function preload(){
 
     //Loading in the sound files:
-    interface = loadSound("samples/iconostasis.wav");
+    interface = loadSound("sound/iconostasis.wav");
     font = loadFont("fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf")
 
 }
